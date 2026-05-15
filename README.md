@@ -49,9 +49,8 @@ Before running the project, ensure you have:
 ### Logging In
 
 1. Choose a language.
-2. Enter the card number.
-3. Enter the password.
-4. Access ATM features from the main menu.
+2. Enter the card number and password
+3. Access ATM features from the main menu.
 
 ---
 
